@@ -1,0 +1,34 @@
+
+if you have zero programming experience, start here: http://www.codecademy.com/tracks/python 
+
+if you are currently taking/took CS-110 or higher, or familar with another programming language, procceed to step1: 
+
+Step1: Download the current stable version of Python 3 (Python 3.2.3) for your operating system. Python 2 won't work for what were doing this semester! https://wiki.python.org/moin/BeginnersGuide/Download
+
+Python 3 comes bundled with IDLE "IDLE is the Python IDE built with the Tkinter GUI toolkit."
+more info: https://wiki.python.org/moin/IDLE
+
+you are free to use a different IDE. I like IDLE because its very lightwight and corss-platform, plus it's coded in Python ;)
+
+step2: create a Github account: at github.com, follow me github.com/abealtaweel
+
+step3: (15minutes): learn the basics of Git http://try.github.io/levels/1/challenges/1 
+
+step4: try to write a hello world program in Python 3. 
+
+step5: try to upload it to our Python repository github.com/abealtaweel/Spamalot
+
+contact me if you get stuck or if you have any questions
+
+we'll meet once a week to work on Python projects to practice the things we learned.
+
+Hint: in python 3 print is a BIF "built in function" 
+print("It's just a flesh wound!")
+
+
+
+
+
+
+
+
