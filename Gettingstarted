@@ -2,7 +2,7 @@ if you have zero programming experience, start here: http://www.codecademy.com/t
 
 if you are currently taking/took CS-110 or higher, or familar with another programming language, procceed to step1: 
 
-Step1: Download the current stable version of Python 3 (Python 3.2.3) for your operating system. Python 2 won't work for what were doing this semester! https://wiki.python.org/moin/BeginnersGuide/Download
+Step1: Download the current stable version of Python 3 (Python 3.2.3) for your operating system. Python 2 won't work for what we're doing this semester! https://wiki.python.org/moin/BeginnersGuide/Download
 
 Python 3 comes bundled with IDLE "IDLE is the Python IDE built with the Tkinter GUI toolkit."
 more info: https://wiki.python.org/moin/IDLE
