@@ -32,5 +32,5 @@ step5: try to upload it to our Python repository github.com/abealtaweel/Spamalot
 
 contact me if you get stuck or if you have any questions
 
-Hint: in python 3 print is a BIF "built in function" 
+Hint: in python 3 print is a BIF "builtin function" 
 print("It's just a flesh wound!")
