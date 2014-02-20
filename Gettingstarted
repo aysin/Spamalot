@@ -26,6 +26,8 @@ step2: create a Github account: at github.com, follow me github.com/abealtaweel
 
 step3: (15minutes): learn the basics of Git http://try.github.io/levels/1/challenges/1 
 
+Or: http://rogerdudler.github.io/git-guide/
+
 step4: try to write a hello world program in Python 3. 
 
 step5: try to upload it to our Python repository github.com/abealtaweel/Spamalot (note: i have to list you as a Collaborator, so you can push files to the repo.)
