@@ -14,7 +14,7 @@ if you have zero programming experience, start here: http://www.codecademy.com/t
 
 if you are currently taking/took CS-110 or higher, or familiar with another programming language, procceed to step1: 
 
-Step1: Download the current stable version of Python 3 (Python 3.2.3) for your operating system.
+step1: Download the current stable version of Python 3 (Python 3.2.3) for your operating system.
 Python 2 won't work for what we're doing this semester! https://wiki.python.org/moin/BeginnersGuide/Download
 
 Python 3 comes bundled with IDLE "IDLE is the Python IDE built with the Tkinter GUI toolkit."
@@ -24,9 +24,15 @@ you are free to use a different IDE. I like IDLE because its very lightweight an
 
 step2: create a Github account: at github.com, follow me github.com/abealtaweel
 
-step3: (15minutes): learn the basics of Git http://try.github.io/levels/1/challenges/1 
+step3: learn the basics of Git 
 
-Or: http://rogerdudler.github.io/git-guide/
+option1:
+http://try.github.io/levels/1/challenges/1 
+
+option2:
+http://rogerdudler.github.io/git-guide/
+
+Git cheat sheet: http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf
 
 step4: try to write a hello world program in Python 3. 
 
